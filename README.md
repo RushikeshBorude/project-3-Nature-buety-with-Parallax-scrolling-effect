@@ -37,10 +37,14 @@ https://github.com/RushikeshBorude/project-3-Nature-buety-with-Parallax-scrollin
 
 
 
+
+![Screenshot (13907)](https://github.com/RushikeshBorude/project-3-Nature-buety-with-Parallax-scrolling-effect/assets/86228914/7d9eb334-c341-4991-81ff-af6e6c084951)
+
+
+
+
 ![Screenshot (13908)](https://github.com/RushikeshBorude/project-3-Nature-buety-with-Parallax-scrolling-effect/assets/86228914/d863067e-ad09-4729-825f-5ba7da04c478)
 
 
 
-
-![Screenshot (13907)](https://github.com/RushikeshBorude/project-3-Nature-buety-with-Parallax-scrolling-effect/assets/86228914/7d9eb334-c341-4991-81ff-af6e6c084951)
 
